@@ -1,0 +1,12 @@
+{
+  "name": "site-academia",
+  "version": "1.0.0",
+  "description": "Site para academiasde musculação e outras atividades fisícas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Molina Martinez",
+  "license": "ISC"
+}
